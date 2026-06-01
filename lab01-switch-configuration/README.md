@@ -79,16 +79,6 @@ exit
 write
 ```
 
-## O que aprendi
-
-- Como acessar os modos de configuração do Cisco IOS
-- Como alterar o hostname de um switch
-- Como configurar senhas locais
-- Como habilitar acesso via console e Telnet
-- Como configurar um endereço IP de gerenciamento em uma VLAN
-- Como criar uma mensagem MOTD
-- Como salvar configurações permanentemente
-
 ## Arquivo
 
 `lab01-switch-configuration.pkt`
