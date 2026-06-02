@@ -8,7 +8,7 @@ Foram utilizados:
 - 1 roteador Cisco 1941
 - 10 PCs (5 em cada rede)
 
-<img width="801" height="386" alt="1" src="https://github.com/user-attachments/assets/3c24cd3b-4ab5-4121-a788-adc2c58e3bf9" />
+<img width="785" height="290" alt="1" src="https://github.com/user-attachments/assets/7177763e-d171-4e59-8c0a-be9b14a936d0" />
 
 ## Configuração realizada:
 
