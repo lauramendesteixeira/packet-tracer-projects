@@ -8,8 +8,6 @@ Foram utilizados:
 - 1 roteador Cisco 1941
 - 10 PCs (5 em cada rede)
 
----
-
 ## Configuração realizada:
 
 - Criação de duas redes independentes
@@ -18,8 +16,6 @@ Foram utilizados:
 - Interconexão entre redes através de roteador
 - Teste de conectividade entre redes
 
----
-
 ## Endereçamento IP
 
 ### Rede 1
@@ -27,14 +23,10 @@ Foram utilizados:
 - Hosts: 192.168.10.1 até 192.168.10.5
 - Gateway: 192.168.10.254
 
----
-
 ### Rede 2
 - Rede: 192.168.20.0/24
 - Hosts: 192.168.20.1 até 192.168.20.5
 - Gateway: 192.168.20.254
-
----
 
 ## Conceito do Roteador
 
@@ -45,14 +37,10 @@ O roteador foi configurado com duas interfaces:
 
 Ele atua como dispositivo de camada 3 (comunicação entre redes diferentes).
 
----
-
 ## Tipos de cabos utilizados
 
 - PC para Switch: Copper Straight-Through
 - Switch para Router: Copper Straight-Through
-
----
 
 ## Teste de conectividade
 
